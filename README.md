@@ -12,4 +12,6 @@ If we take an unsolvable puzzle as an input we get the following output: (Not so
 
 The following puzzle for example is unsolvable because it has 11 inversions:
 
+[! alt text](https://github.com/githubprgrammer/EightPuzzle/blob/master/unsolvable%20puzzle.PNG)
+
 List(Eight, One, Two, Empty, Four, Three, Seven, Six, Five)
