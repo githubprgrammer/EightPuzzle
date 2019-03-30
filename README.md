@@ -7,3 +7,9 @@ For more information: https://en.wikipedia.org/wiki/15_puzzle
 
 In our program, we do not care where the empty space ends. What matters is that the numbered tiles are sorted in ascending manner from left to right, top to bottom. It is important to note that this problem is not solvable for half of the possible initial configurations. So first we have to check if the puzzle is solveable. Therefore we check if the number of inversions in the initial puzzle is even. A pair of tiles form an inversion if the values on tiles are in reverse order of their appearance in goal state. For more information about the solvability of 8-puzzle see here: https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
+## Examples
+If we take an unsolvable puzzle as an input we get the following output: (Not solvable,List(),List(),0)
+
+The following puzzle for example is unsolvable because it has 11 inversions:
+
+List(Eight, One, Two, Empty, Four, Three, Seven, Six, Five)
