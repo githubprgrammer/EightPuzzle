@@ -1,5 +1,5 @@
 # EightPuzzle
-Solving the 8-puzzle problem first by using depth-first-search and then by using a heuristic function.
+Solving the 8-puzzle problem first by using depth-first-search and then by using a heuristic function with Manhattan Distance.
 
 ## Problem Description
 The 8-puzzle is a sliding puzzle that consists of a frame of 8 numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space. 
