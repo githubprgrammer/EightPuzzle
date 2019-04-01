@@ -1,4 +1,4 @@
-# Solving 8-Puzzle with Heuristic Algorithm
+# Solving 8-Puzzle with Heuristic Algorithm using Recursion
 Solving the 8-puzzle problem, first by using **depth-first-search** and then by using a **heuristic function with Manhattan Distance**.
 
 ## Problem Description
